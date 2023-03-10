@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+
+RewriteRule ^([a-zA-Z0-9]*)$ api_ventas.php
